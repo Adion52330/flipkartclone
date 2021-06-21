@@ -1,0 +1,55 @@
+* {
+  overflow-x: hidden;
+}
+
+#aa:hover {
+  text-decoration: underline;
+}
+
+body {
+  background-color: lightgray;
+}
+
+#jj ul li {
+  color: white;
+}
+
+#i1 {
+  padding: 0 30px 0 30px;
+  overflow: hidden;
+}
+
+#imgs {
+  padding: 0 30px 0 30px;
+}
+
+#btn:hover {
+  #ic {
+    transform: rotate(180deg);
+    padding-left: 5px;
+  }
+}
+
+#i1 a {
+  color: black;
+  text-decoration: none;
+}
+
+#i1 a:hover {
+  color: blue;
+}
+
+#trans:hover {
+  i {
+    transform: rotate(180deg);
+  }
+}
+
+#items {
+  padding: 0 20px 0 20px;
+}
+
+#itemhov {
+  text-decoration: none;
+  color: black;
+}
